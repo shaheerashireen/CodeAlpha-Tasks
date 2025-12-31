@@ -1,4 +1,4 @@
-# Task 4 – Sentiment Analysis
+# CodeAlpha Task 4 – Sentiment Analysis
 
 # Overview
 This project focuses on performing sentiment analysis on text data to understand public opinion and emotional tone. Natural Language Processing (NLP) techniques were used to classify text into positive, negative, and neutral sentiments.
